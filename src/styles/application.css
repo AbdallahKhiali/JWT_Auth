@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Didact+Gothic&family=Open+Sans&family=Oswald&family=Poppins:ital,wght@0,300;1,100&family=Roboto&family=Spartan:wght@200;400;500&family=Spline+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.container{
+    padding: 0 30px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.page{
+    height: 100vh;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulaire{
+    background-color: #eee;
+    padding: 50px;
+    border-radius: 10px;
+    width: 400px;
+}
